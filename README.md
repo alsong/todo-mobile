@@ -1,2 +1,1 @@
-# todo-mobile
-Todo mobile webapp
+# teramite
